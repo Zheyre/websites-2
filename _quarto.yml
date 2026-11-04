@@ -3,12 +3,17 @@ project:
 
 website:
   title: "Websites 2"
-  navbar:
+    navbar:
     left:
       - href: index.qmd
         text: Home
+      - text: Sources
+        menu:
+          - href: source-1.qmd
+            text: Source 1
+          - href: source-2.qmd
+            text: Source 2 
       - about.qmd
-
 format:
   html:
     theme:
