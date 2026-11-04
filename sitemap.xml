@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://Zheyre.github.io/websites-2/source-1.html</loc>
+    <lastmod>2026-11-04T04:57:50.073Z</lastmod>
+  </url>
+  <url>
     <loc>https://Zheyre.github.io/websites-2/index.html</loc>
-    <lastmod>2026-11-04T04:37:40.131Z</lastmod>
+    <lastmod>2026-11-04T15:41:04.298Z</lastmod>
   </url>
   <url>
     <loc>https://Zheyre.github.io/websites-2/about.html</loc>
     <lastmod>2026-11-04T04:43:42.591Z</lastmod>
+  </url>
+  <url>
+    <loc>https://Zheyre.github.io/websites-2/source-2.html</loc>
+    <lastmod>2026-11-04T04:58:11.762Z</lastmod>
   </url>
 </urlset>
